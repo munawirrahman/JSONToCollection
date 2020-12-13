@@ -1,0 +1,1 @@
+https://munawirrahman.medium.com/convert-json-list-to-collection-variable-in-salesforce-flow-1f0f1d8d0676
